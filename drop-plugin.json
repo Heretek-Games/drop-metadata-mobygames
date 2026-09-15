@@ -14,5 +14,26 @@
   "targets": [
     "server"
   ],
-  "entry": "dist/src/index.js"
+  "entry": "dist/src/index.js",
+  "checksum": "05320b10966f0454214ae31b10971148f7d02c90ad8c472efc2d6b21a41bd7c4",
+  "files": {
+    ".github/dependabot.yml": "fe156952d1952825377de8e48c90563a3ac19bb95a6e0ced8a2f498a0f20fdf6",
+    ".github/workflows/ci.yml": "9dc3c27fde3aae22375d7b2e26ba5f3be55549aa2846389d77b797002917be77",
+    ".gitignore": "e8bc935ce727f1809c792f4c5d26c5fc75ba2b7df7fc9390c56c8892f6a6007f",
+    "AGENTS.md": "332799756b9b3a14077964de36d0ce15b62a2855609481fa19a886cdd4580a6e",
+    "CLAUDE.md": "3b2c8a6a80fe79fa9ee0680b86d2e84ce0b9255d3dc43eccd4e2fce59064c7da",
+    "dist/src/index.d.ts": "0b852fb41b6376b67e25f790ab1e71eb58f892bbc3f1a5988a6bdeb6e3af221c",
+    "dist/src/index.js": "05320b10966f0454214ae31b10971148f7d02c90ad8c472efc2d6b21a41bd7c4",
+    "dist/test/mobygames.test.d.ts": "8e609bb71c20b858c77f0e9f90bb1319db8477b13f9f965f1a1e18524bf50881",
+    "dist/test/mobygames.test.js": "761f8151d9e768fae86ddadbcc8faf3e60cf38b3a8311f775a356dc34cbbdf4d",
+    "eslint.config.mjs": "4cdf67d5a07b1a089d8f39e842a7de7532eb519752d60fe5ac706f42fb7bdc6f",
+    "GEMINI.md": "3b2c8a6a80fe79fa9ee0680b86d2e84ce0b9255d3dc43eccd4e2fce59064c7da",
+    "package-lock.json": "ea39c1ede8d85afc33842eec9e9402c3203df290fc47435d64212e3062f4d993",
+    "package.json": "b1e9ca9b9e10f4accef13c30759c220caf744f4f0305ee04fb7476800ca6d032",
+    "README.md": "834b8cda6a4222408b0e25e9d82250362084ff76b4adee4c00d588d3f4a1dd3a",
+    "SECURITY.md": "1ed84c5e2293a1bda1e0d1650df39f5c03dba9a18ee6d8acff78cc10a6897d2d",
+    "src/index.ts": "1853c2c24fd25cbf1d04b7c2410f49d481f054d668548042fb070243abf79ecd",
+    "test/mobygames.test.ts": "3ea7be73416be875d3a66e4b4603c6bd53101a42dd4bf819e066973b6a7868c8",
+    "tsconfig.json": "e67d6d62d5af3c653c4d1af30dea94d529c721708e54bd8609d748be627e79e5"
+  }
 }
