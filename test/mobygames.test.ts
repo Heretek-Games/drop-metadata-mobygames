@@ -98,7 +98,7 @@ async function createProviderContext(
   fixtures: Array<{ match: string; body: unknown; status?: number }>,
   config?: MobyGamesConfig,
 ): Promise<{ ctx: MockPluginContext; calls: FetchCall[]; messages: string[] }> {
-  const ctx = new MockPluginContext("drop-metadata-mobygames", ["metadata:provider", "network"]);
+  const ctx = new MockPluginContext("drop-metadata-mobygames", ["metadata:provider", "storage", "network"]);
   const messages: string[] = [];
   ctx.logger = {
     info: (message: string) => messages.push(message),

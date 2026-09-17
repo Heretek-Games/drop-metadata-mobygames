@@ -9,7 +9,8 @@
   "storageVersion": 1,
   "capabilities": [
     "metadata:provider",
-    "network"
+    "network",
+    "storage"
   ],
   "targets": [
     "server"

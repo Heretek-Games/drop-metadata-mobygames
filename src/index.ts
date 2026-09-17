@@ -212,7 +212,7 @@ export default class MobyGamesPlugin implements ServerPlugin {
     name: "MobyGames",
     version: "0.1.0",
     apiVersion: 2,
-    capabilities: ["metadata:provider" as const, "network" as const],
+    capabilities: ["metadata:provider" as const, "storage" as const, "network" as const],
   };
 
   async init(ctx: PluginContext): Promise<void> {
